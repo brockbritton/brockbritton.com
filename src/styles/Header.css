@@ -43,6 +43,10 @@ header {
     
 }
 
+.nav-item.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
 
 
 .nav-container {
